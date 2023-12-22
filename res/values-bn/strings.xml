@@ -4965,10 +4965,10 @@
     <string name="keywords_media_controls" msgid="8345490568291778638">"মিডিয়া"</string>
     <string name="connected_device_see_all_summary" msgid="2056010318537268108">"Bluetooth চালু হবে"</string>
     <string name="aware_summary_when_bedtime_on" msgid="2063856008597376344">"বেডটাইম মোড চালু থাকায় এই সুবিধা উপলভ্য নয়"</string>
-    <string name="bluetooth_message_access_notification_content" msgid="2986108412562309009">"বিশ্বাসযোগ্য নয় এমন ব্লুটুথ ডিভাইস আপনার মেসেজ অ্যাক্সেস করতে চাইছে। বিশদ বিবরণের জন্য ট্যাপ করুন।"</string>
+    <string name="bluetooth_message_access_notification_content" msgid="5111712860712823893">"ডিভাইস আপনার মেসেজ অ্যাক্সেস করতে চাইছে। বিশদ বিবরণের জন্য ট্যাপ করুন।"</string>
     <string name="bluetooth_message_access_dialog_title" msgid="9009836130395061579">"মেসেজ দেখার অ্যাক্সেস দিতে চান?"</string>
-    <string name="bluetooth_message_access_dialog_content" msgid="2304761898608701739">"বিশ্বাসযোগ্য নয় এমন একটি ব্লুটুথ ডিভাইস, <xliff:g id="DEVICE_NAME_0">%1$s</xliff:g>, আপনার মেসেজ অ্যাক্সেস করতে চাইছে।.\n\nআপনি <xliff:g id="DEVICE_NAME_1">%2$s</xliff:g>-এর সাথে আগে কখনও কানেক্ট করেননি।"</string>
-    <string name="bluetooth_phonebook_access_notification_content" msgid="4280361621526852063">"বিশ্বাসযোগ্য নয় এমন ব্লুটুথ ডিভাইস আপনার পরিচিতি ও কল লগ অ্যাক্সেস করতে চাইছে। বিশদ বিবরণের জন্য ট্যাপ করুন।"</string>
+    <string name="bluetooth_message_access_dialog_content" msgid="7186694737578788487">"ব্লুটুথ ডিভাইস, <xliff:g id="DEVICE_NAME_0">%1$s</xliff:g>, আপনার মেসেজ অ্যাক্সেস করতে চাইছে।\n\nআপনি <xliff:g id="DEVICE_NAME_1">%2$s</xliff:g>-এর সাথে আগে কখনও কানেক্ট করেননি।"</string>
+    <string name="bluetooth_phonebook_access_notification_content" msgid="9175220052703433637">"ডিভাইস আপনার পরিচিতি ও কল লগ অ্যাক্সেস করতে চাইছে। বিশদ বিবরণের জন্য ট্যাপ করুন।"</string>
     <string name="bluetooth_phonebook_access_dialog_title" msgid="7624607995928968721">"পরিচিতি ও কল লগ দেখার অ্যাক্সেস দিতে চান?"</string>
-    <string name="bluetooth_phonebook_access_dialog_content" msgid="4766700015848574532">"বিশ্বাসযোগ্য নয় এমন একটি ব্লুটুথ ডিভাইস, <xliff:g id="DEVICE_NAME_0">%1$s</xliff:g>, আপনার পরিচিতি ও কল লগ অ্যাক্সেস করতে চাইছে। এর মধ্যে ইনকামিং ও আউটগোয়িং কলের ডেটাও আছে।\n\nআপনি <xliff:g id="DEVICE_NAME_1">%2$s</xliff:g>-এ আগে কখনও কানেক্ট করেননি।"</string>
+    <string name="bluetooth_phonebook_access_dialog_content" msgid="959658135522249170">"ব্লুটুথ ডিভাইস, <xliff:g id="DEVICE_NAME_0">%1$s</xliff:g>, আপনার পরিচিতি ও কল লগ অ্যাক্সেস করতে চাইছে। এর মধ্যে ইনকামিং ও আউটগোয়িং কলের ডেটাও আছে।\n\nআপনি <xliff:g id="DEVICE_NAME_1">%2$s</xliff:g>-এ আগে কখনও কানেক্ট করেননি।"</string>
 </resources>
